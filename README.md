@@ -19,7 +19,7 @@ This project is built using React.js and focuses on providing a simple and intui
 
 ## Deployment
 
-The live demo of the Expense Tracker is available at [here](https://expense-tracker-2000.netlify.app/).
+The live demo of the Expense Tracker is available at [here](https://expenseproject.netlify.app/).
 
 ## Getting Started Locally
 
